@@ -1,4 +1,27 @@
-print("hello world")
-print("hello world")
-print("hello world")
+# print("hello world")
+# print("hello world")
+# print("hello world")
+# 3 = три
+#
+# 3+ один  = 4
+# 3+ один = 3один как видит компьютер
+#
+# типы данных
+# int -- целосные числа 5, 10, 200
+# float -- числа с плавающей запятой 5.5 или 10.02 , разделяем точкой
+# str --  строки текст через (кавычки) "привет"
+# boolean -- true , false (да или нет)
+#
+# Переменные
+# Правило
+# var
+# _var
+# 123var !var = ошибка создания переменной
+# first_name - правильно тру синтаксис
+# firstName - ошибка (Нельзя как в джаве)
 
+# var
+num_1 = 2
+num_2 = 55
+result = num_1 + num_2
+print(result)
