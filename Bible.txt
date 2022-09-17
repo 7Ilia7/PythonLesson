@@ -1,5 +1,5 @@
 pip3 install pytest
-pip3 innstall pytest-ordering
+pip3 install pytest-ordering
 
 
 import requests - библиотека пайтон за запросам(изучить)
