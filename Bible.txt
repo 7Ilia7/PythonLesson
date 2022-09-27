@@ -1,4 +1,6 @@
 pip3 install pytest
+python -m pytest -s -v
+
 pip3 install pytest-ordering
 
 
