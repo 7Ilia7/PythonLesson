@@ -20,3 +20,9 @@ class Checking():
         token = json.loads(responce.text)
         assert list(token) == expected_value
         print("Все поля присутствуют")
+
+    """Метод для проверки значения обязательных полей в ответе запроса"""
+    @staticmethod
+    def check_json_calue(responce: Response, field_name, expected_value):
+        check =
+
